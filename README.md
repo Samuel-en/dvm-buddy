@@ -2,7 +2,9 @@
 
 ## Description
 
-The scope of this project was to create a user friendly experience for clients at their local veterinarian's office
+The scope of this project was to create a user friendly experience for clients at their local veterinarian's office. Through this app, after a client creates an account, he/she can schedule appointments and find different service types for their pets such as walker and sitter. Through this classified section, a user can filter through the services by zipcode, distance and type of service.
+As an admin, he/she has access to view all the employee information, client information and upcoming appointments. In addition, the admin can create, update, and delete new reservation slots and classified cards.
+With this app, we hope to assist small veterinary clinics to improve their website and bring new clients in.
 
 ## Table of Contents
 
@@ -10,12 +12,13 @@ The scope of this project was to create a user friendly experience for clients a
 - [Usage](#usage)
 - [License](#License)
 - [Contributing](#Contributing)
-- [Test](#test)
 - [Question](#Question)
 
 ## Installation
 
 ## Usage
+
+I n order to take advantage of these services, a user will need to create an account. Once he/she is logged in, he/she will have access to the veterinarian's schedule and different services like boarders, walkers and sitters.
 
 ## License
 
@@ -27,13 +30,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contributing
 
-Songhee Yim, Claude, Samuel
-
-## Test
+Songhee Yim - @Songhee95
+Claude Hyppolite - chyppolitejr
+Samuel Endrias -Samuel-en
+Lois Gabor - loisimonca
 
 ## Question
 
 loisimonca@gmail.com
 
-Github user name: loisimonca
-https://github.com/loisimonca
+Github user name: chyppolitejr
+https://github.com/chyppolitejr/dvm-buddy
