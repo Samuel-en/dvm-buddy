@@ -155,9 +155,9 @@ const AppointmentEditPage = () => {
                 <td>
                   <TimeInput onChange={addTimeSlot} />
                 </td>
-                {/* <td> */}
-                {/* <input type="text" name="email" id="" onChange={addTimeSlot}/> */}
-                {/* </td> */}
+                <td>
+                  {/* <input type="text" name="email" id="" onChange={addTimeSlot}/> */}
+                </td>
                 <td></td>
                 <td>
                   <button
@@ -173,8 +173,8 @@ const AppointmentEditPage = () => {
                   <tr key={index}>
                     <td>{item.apptDate}</td>
                     <td>{item.apptTime}</td>
-                    {/* <td>{item.user ? item.user.email : ""}</td> */}
-                    {/* <td>
+                    <td>{item.user ? item.user.email : ""}</td>
+                    <td>
                       {inEditMode.status && inEditMode.rowKey === item._id ? (
                         <input
                           defaultValue=""
@@ -185,7 +185,7 @@ const AppointmentEditPage = () => {
                       ) : (
                         ""
                       )}
-                    </td> */}
+                    </td>
 
                     <td>
                       {inEditMode.status && inEditMode.rowKey === item._id ? (

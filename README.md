@@ -1,29 +1,39 @@
-# Create React Express App
+# DVM-Buddy
 
-## About This Boilerplate
+## Description
 
-This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
+The scope of this project was to create a user friendly experience for clients at their local veterinarian's office
 
-The front-end React app will auto-reload as it's updated via webpack dev server, and the backend Express app will auto-reload independently with nodemon.
+## Table of Contents
 
-## Starting the app locally
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Test](#test)
+- [Question](#Question)
 
-Start by installing front and backend dependencies. While in this directory, run the following command:
+## Installation
 
-```
-npm install
-```
+## Usage
 
-This should install node modules within the server and the client folder.
+## License
 
-After both installations complete, run the following command in your terminal:
+Copyright [2021] [Lois Simonca]
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+![badge](https://img.shields.io/badge/MIT-License-<color>)
 
-```
-npm start
-```
+## Contributing
 
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
+Songhee Yim, Claude, Samuel
 
-## Deployment (Heroku)
+## Test
 
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+## Question
+
+loisimonca@gmail.com
+
+Github user name: loisimonca
+https://github.com/loisimonca
